@@ -4,7 +4,7 @@ export default function HAHAH() {
   return (
     <div>
       <Seo title='Home' />
-      <h1>hahahah</h1>
+      <h1>asdasdkasds</h1>
     </div>
   );
 }
